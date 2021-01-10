@@ -7,4 +7,4 @@ Our purpose was to identify the top 10 bacterial species.
 
 ## Results
 
-![alt text](https://github.com/coconnell022/BB_pages/blob/main/1.png?raw=true)
+![alt text](https://github.com/coconnell022/beef/blob/main/1.png?raw=true)
